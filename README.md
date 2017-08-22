@@ -18,15 +18,15 @@ TypeScript design patterns implementation
 - [Flyweight](structural/flyweight/README.md)
 - [Facade](structural/facade/README.md)
 
-**Behavioral patterns**
-- Interpreter
-- Template Method
-- Iterator
-- Command
-- Observer
-- Visitor
-- Mediator
-- State
-- Strategy
-- Memento
-- Chain of Responsibility
+## Behavioral patterns
+- [Interpreter](behavioral/interpreter/README.md)
+- [Template Method](behavioral/template-method/README.md)
+- [Iterator](behavioral/iterator/README.md)
+- [Command](behavioral/command/README.md)
+- [Observer](behavioral/observer/README.md)
+- [Visitor](behavioral/visitor/README.md)
+- [Mediator](behavioral/mediator/README.md)
+- [State](behavioral/state/README.md)
+- [Strategy](behavioral/strategy/README.md)
+- [Memento](behavioral/memento/README.md)
+- [Chain of Responsibility](behavioral/chain-of-responsibility/README.md)
