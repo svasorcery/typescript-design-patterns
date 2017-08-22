@@ -9,14 +9,14 @@ TypeScript design patterns implementation
 - [Prototype](creational/prototype/README.md)
 - [Builder](creational/builder/README.md)
 
-**Structural patterns**
-- Adapter
-- Decorator
-- Proxy
-- Composite
-- Bridge
-- Flyweight
-- Facade
+## Structural patterns
+- [Adapter](structural/adapter/README.md)
+- [Decorator](structural/decorator/README.md)
+- [Proxy](structural/proxy/README.md)
+- [Composite](structural/composite/README.md)
+- [Bridge](structural/bridge/README.md)
+- [Flyweight](structural/flyweight/README.md)
+- [Facade](structural/facade/README.md)
 
 **Behavioral patterns**
 - Interpreter
