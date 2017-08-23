@@ -2,14 +2,14 @@
 
 TypeScript design patterns implementation
 
-## Creational patterns
+## [Creational patterns](creational/README.md)
 - [Factory Method](creational/factory-method/README.md)
 - [Abstract Factory](creational/abstract-factory/README.md)
 - [Singleton](creational/singleton/README.md)
 - [Prototype](creational/prototype/README.md)
 - [Builder](creational/builder/README.md)
 
-## Structural patterns
+## [Structural patterns](structural/README.md)
 - [Adapter](structural/adapter/README.md)
 - [Decorator](structural/decorator/README.md)
 - [Proxy](structural/proxy/README.md)
@@ -18,7 +18,7 @@ TypeScript design patterns implementation
 - [Flyweight](structural/flyweight/README.md)
 - [Facade](structural/facade/README.md)
 
-## Behavioral patterns
+## [Behavioral patterns](behavioral/README.md)
 - [Interpreter](behavioral/interpreter/README.md)
 - [Template Method](behavioral/template-method/README.md)
 - [Iterator](behavioral/iterator/README.md)
